@@ -1,7 +1,7 @@
 # Predicting air quality index
 
 Course: ID2223-Scalable Machine Learning and Deep Learning
-Contributor:<a href="https://github.com/Yasaman97">Brando Chiminelli</a>
+Contributor:<a href="https://github.com/Yasaman97">Yasaman Pazhoolideh</a>
 
 ## About
 
